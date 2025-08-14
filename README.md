@@ -60,11 +60,6 @@ Construir un **dashboard operativo** que permita entender ventas, costos y renta
 3. Crea charts ejecutivos (barras apiladas, líneas, treemap o doughnut).  
 4. Monta una página “Resumen” con KPIs y navegación.  
 
-## ➕ Próximos pasos
-- Agregar segmentaciones (slicers) por año/mercado.  
-- Exportar snapshots mensuales a `img/`.  
-- Publicar el dashboard y enlazarlo aquí.
-
 ---
 
 **Autor:** Eric Sanchez — Data Analyst (Admin & Finance)  
