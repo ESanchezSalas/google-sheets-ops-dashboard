@@ -28,8 +28,9 @@ Construir un **dashboard operativo** que permita entender ventas, costos y renta
 Estas conclusiones provienen del análisis detallado del dataset y la presentación adjunta.  [oai_citation:0‡masterglobalsuperstore.pdf](file-service://file-DLYJ1k7ZXBoZjiZ3AfGdno)
 
 ## 🖥️ Dashboard (vista)
-> *Agrega aquí capturas del Google Sheets (p. ej. `img/kpis.png`, `img/categorias.png`).*  
-> Si publicas el dashboard (File → Share → Publish), pega el link aquí.
+
+![KPIs – vista general](img/masterglobalsuperstore1.jpeg)
+![Detalle por categoría / región](img/masterglobalsuperstore2.jpeg)
 
 ## 🗂️ Estructura del repo
 ├── README.md
