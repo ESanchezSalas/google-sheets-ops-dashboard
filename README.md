@@ -1,4 +1,4 @@
-# Dashboard operativo – Google Sheets (M1)
+# Dashboard operativo – Google Sheets
 
 **Stack:** Google Sheets (ETL ligera + tablas dinámicas + charts) · Excel (fuente)  
 **Dataset:** Master Global Super Store (2013–2014)
