@@ -49,17 +49,6 @@ Construir un **dashboard operativo** que permita entender ventas, costos y renta
 ├─ masterglobalsuperstore1.jpeg
 └─ masterglobalsuperstore2.jpeg
 
-## 🧪 Cómo reproducir (rápido)
-1. Abre [`data/raw/MasterGlobalSuperStore.xlsx`](data/raw/MasterGlobalSuperStore.xlsx) en Google Sheets.  
-2. Replica “Proceso (ETL liviana)” y genera tablas dinámicas por:
-   - Categoría / Subcategoría  
-   - Mercado / Región  
-   - Año (Ventas/Costos)  
-   - *Ship Mode* (envíos y ventas)  
-   - *Order Priority*
-3. Crea charts ejecutivos (barras apiladas, líneas, treemap o doughnut).  
-4. Monta una página “Resumen” con KPIs y navegación.  
-
 ---
 
 **Autor:** Eric Sanchez — Data Analyst (Admin & Finance)  
